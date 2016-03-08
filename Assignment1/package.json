@@ -1,0 +1,15 @@
+{
+  "name": "session",
+  "version": "1.0.0",
+  "description": "This is the first express js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "app"
+  ],
+  "author": "Ravi N.",
+  "license": "GPL-3.0"
+}
